@@ -1,4 +1,4 @@
-![overview](overview.png)
+![overview](overview.jpg)
 
 ## About Kontos
 
